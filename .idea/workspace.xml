@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e624653-a408-49ec-8e47-dfe4f7feef9e" name="Changes" comment="Created practice boilerplate">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice0.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice11.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice13.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice14.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice15.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice16.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice9.kt" afterDir="false" />
+    <list default="true" id="9e624653-a408-49ec-8e47-dfe4f7feef9e" name="Changes" comment="Added README and practices">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice17.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice18.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practice19.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,28 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Practice16Kt">
-    <configuration name="Practice12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice12Kt" />
-      <module name="practice1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice13Kt" />
-      <module name="practice1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice14Kt" />
-      <module name="practice1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Practice19Kt">
     <configuration name="Practice15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice15Kt" />
       <module name="practice1" />
@@ -92,13 +54,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice17Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice17Kt" />
+      <module name="practice1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice18Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice18Kt" />
+      <module name="practice1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice19Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice19Kt" />
+      <module name="practice1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Practice19Kt" />
+        <item itemvalue="Kotlin.Practice18Kt" />
+        <item itemvalue="Kotlin.Practice17Kt" />
         <item itemvalue="Kotlin.Practice16Kt" />
         <item itemvalue="Kotlin.Practice15Kt" />
-        <item itemvalue="Kotlin.Practice14Kt" />
-        <item itemvalue="Kotlin.Practice13Kt" />
-        <item itemvalue="Kotlin.Practice12Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668808804947</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added README and practices">
+      <created>1669158494144</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669158494144</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added README and practices">
+      <created>1669158502141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669158502141</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created practice boilerplate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created practice boilerplate" />
+    <MESSAGE value="Added README and practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added README and practices" />
   </component>
 </project>
